@@ -383,6 +383,7 @@ body {
     font-weight: 600;
     transition: height .3s;
     overflow: hidden; /* Agregar overflow: hidden para ocultar el contenido desbordado */
+    height: 0;
 }
 
 .questions__img{
